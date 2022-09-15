@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rai-shahnawaz
+- 👀 I’m interested in art, literature, cinema and music
+- 🌱 I’m currently learning AWS, RESTful APIs
+- 💞️ I’m looking to collaborate on Python/Django related projects
+- 📫 How to reach me: raishahnawaz695@gmail.com
