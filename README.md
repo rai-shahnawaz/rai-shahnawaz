@@ -36,8 +36,8 @@
     <a href="https://rai-shahnawaz.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rai-shahnawaz.github.io/" />
     </a>
-    <a title="raishahnawaz695@gmail.com" href="raishahnawaz695@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="raishahnawaz695@gmail.com" />
+    <a title="mailto:raishahnawaz695@gmail.com" href="mailto:raishahnawaz695@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:raishahnawaz695@gmail.com" />
     </a>
 </p>
 
