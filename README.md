@@ -23,17 +23,15 @@
 <!----------------------------------- Let's Connect ------------------------------------>
 <h2><i>Let's Connect 📫</i></h2>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/rai-shahnawaz-khan-703748129/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rai-shahnawaz-khan-703748129/" />
-    </a>
-    <a href="https://rai-shahnawaz.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rai-shahnawaz.github.io/" />
-    </a>
-    <a title="mailto:raishahnawaz695@gmail.com" href="mailto:raishahnawaz695@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:raishahnawaz695@gmail.com" />
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/rai-shahnawaz-khan-703748129/">
+   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rai-shahnawaz-khan-703748129/" />
+</a>
+<a href="https://rai-shahnawaz.github.io/">
+   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rai-shahnawaz.github.io/" />
+</a>
+<a href="mailto:raishahnawaz695@gmail.com">
+   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:raishahnawaz695@gmail.com" />
+</a>
 
 <!----------------------------------- GitHub Stats Section  ------------------------------------>
 <h2><i>My GitHub Stats 📊</i></h2>
