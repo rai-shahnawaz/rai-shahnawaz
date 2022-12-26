@@ -33,8 +33,8 @@
     <a href="https://www.linkedin.com/in/rai-shahnawaz-khan-703748129/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rai-shahnawaz-khan-703748129/" />
     </a>
-    <a href="#">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
+    <a href="https://rai-shahnawaz.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rai-shahnawaz.github.io/" />
     </a>
     <a title="raishahnawaz695@gmail.com" href="raishahnawaz695@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="raishahnawaz695@gmail.com" />
