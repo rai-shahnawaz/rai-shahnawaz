@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Tools and Technologies
 - 🌱 I’m currently learning Blockchain and Web 3.0
 - 💞️ I’m looking to collaborate on Python/Django related projects
-- 🧑‍💻 I'm presently working at Emblem Technologies as a Backend Engineer 
+- 🧑‍💻 I'm presently working at American Institute of Artificial Intelligence as Vice President of Software Engineering 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2><i>🚀 Tech Skills</i></h2>
